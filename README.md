@@ -22,11 +22,11 @@
   - Atención al publico.
 
 ## Habilidades
-- Algunos lengujes en los que he programado son C, C# y C++.
-- 
+- Algunos lenguajes en los que he programado son C, C# y C++.
+  
 ## Proyectos
-- **Proyecto 1**: sistema de inicio de sesion para empleados de un hotel
-  - **Descripción**: El sistema fue desarrollado en equipo de 6 personas para implementar la gestión de habiataciones ,  de reservaciones, de clientes, facturación y pagos, niveles de usuario.
+- **Proyecto 1**: Sistema de inicio de sesion para empleados de un hotel
+  - **Descripción**: El sistema fue desarrollado en equipo de 6 personas para implementar la gestión de habitaciones ,  de reservaciones, de clientes, facturación y pagos, niveles de usuario.
   - **Tecnologías Utilizadas**:  Desarrollado en C#, Paradigmas empleados: Programacion Orientada a Objetos, JSON, Windows Forms , QuestPDF para la creacion de recibos de pago descargables en pdf.
 
 - **Proyecto 2**: La Tienda de la Esquina
