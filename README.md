@@ -11,6 +11,7 @@
 - **Institución**: Liceo Bolivariano Ejido.
 - **Grado Académico**: Bachiller en Ciencias
 - **Años de Estudio**: 2009.2020
+- Actualmente : Universidad de Los Andes, Facultad de Ingeniería, Escuela de Ingeniería en Sistemas
 
 ## Experiencia Laboral
 - **Empresa**: Googlecell Mérida.
