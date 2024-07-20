@@ -39,7 +39,7 @@ Novelas - Libros.
 Revistas Científicas.
 Video Conferencias - Documentales.
 Audiobooks. 
- - **Tecnologías Utilizadas**: Desarrollado en C#, Programación Orientada a Objetos.
+  - **Tecnologías Utilizadas**: Desarrollado en C#, Programación Orientada a Objetos.
  
  ## Intereses
 - Idiomas
