@@ -10,7 +10,7 @@
 ## Educación
 - **Institución**: Liceo Bolivariano Ejido.
 - **Grado Académico**: Bachiller en Ciencias
-- **Años de Estudio**: 2009.2020
+- **Años de Estudio**: 2009-2020
 - Actualmente : Universidad de Los Andes, Facultad de Ingeniería, Escuela de Ingeniería en Sistemas
 
 ## Experiencia Laboral
@@ -33,7 +33,7 @@
   - **Descripción**:  Realización de un sistema de gestión de productos, inventario y facturación. 
   - **Tecnologías Utilizadas**: Desarrollado en C#, Paradigmas empleados: Programacion Orientada a Objetos, JSON, Windows Forms , QuestPDF para la creacion de recibos de pago descargables en pdf.
 
-  - **Proyecto 3**:TuVideoLibreríaOnline
+- **Proyecto 3**:TuVideoLibreríaOnline
   -  **Descripción**:  Se dedica a la venta de articulos de distintas categorías de productos como son:
 Novelas - Libros.
 Revistas Científicas.
