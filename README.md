@@ -23,7 +23,7 @@
 
 ## Habilidades
 - Algunos lengujes en los que he programado son C, C# y C++.
-
+- 
 ## Proyectos
 - **Proyecto 1**: sistema de inicio de sesion para empleados de un hotel
   - **Descripción**: El sistema fue desarrollado en equipo de 6 personas para implementar la gestión de habiataciones ,  de reservaciones, de clientes, facturación y pagos, niveles de usuario.
@@ -31,9 +31,17 @@
 
 - **Proyecto 2**: La Tienda de la Esquina
   - **Descripción**:  Realización de un sistema de gestión de productos, inventario y facturación. 
-  - **Tecnologías Utilizadas**: C#, Paradigmas Empleados: Programación Orientada a Objetos, Windows Forms.
+  - **Tecnologías Utilizadas**: Desarrollado en C#, Paradigmas empleados: Programacion Orientada a Objetos, JSON, Windows Forms , QuestPDF para la creacion de recibos de pago descargables en pdf.
 
-## Intereses
+  - **Proyecto 3**:TuVideoLibreríaOnline
+  -  **Descripción**:  Se dedica a la venta de articulos de distintas categorías de productos como son:
+Novelas - Libros.
+Revistas Científicas.
+Video Conferencias - Documentales.
+Audiobooks. 
+ - **Tecnologías Utilizadas**: Desarrollado en C#, Programación Orientada a Objetos.
+ 
+ ## Intereses
 - Idiomas
 - Desarrollo  de videjuegos
 - Diseño
